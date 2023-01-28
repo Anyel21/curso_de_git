@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de introducción a HTML en OpenBootcamp </title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi codigo con OpenBootcamp-->
+        <h1>Videos Favoritos</h1>
+        <ul>
+            <li>
+            <a href="https://youtu.be/EpeilhuWXcw">Amor Propio</a>
+            </li>
+            <li>
+            <a href="https://youtu.be/4xp7z5nvCrU">3 circuitos con el IC 555</a>
+            </li>
+            <li>
+            <a href="https://youtu.be/jTfT_TeDNeA">Mortals</a>
+            </li>
+        </ul>
+    </body>
+</html>
